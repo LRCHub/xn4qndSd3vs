@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シンクタンク",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-02-07T10:12:53.256496Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンクタンク",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_シンクタンク_稲葉曇.txt"
+    }
+  ]
+}
